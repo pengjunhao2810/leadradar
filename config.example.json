@@ -20,9 +20,9 @@
   },
   "llm": {
     "provider": "none",
-    "base_url": "https://api.deepseek.com/v1",
+    "base_url": "https://api.deepseek.com",
     "api_key": "",
-    "model": "deepseek-chat"
+    "model": "deepseek-flash"
   },
   "contacts": {
     "official_site": true,
